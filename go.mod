@@ -1,4 +1,4 @@
-module xiding.tech/plugin/transform/v4
+module github.com/eanfs/plugin-transform/v4
 
 go 1.18
 
