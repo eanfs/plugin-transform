@@ -1,4 +1,4 @@
-module github.com/eanfs/plugin-transform
+module github.com/eanfs/plugin-transform/v2
 
 go 1.18
 
